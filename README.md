@@ -1,16 +1,3 @@
 # habit_crudx
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este se trata de um app com um crud simples utilizando um banco local para realizar um crud simples com funcionalidade semelhante a de um tracker de tarefas diarias, desenvolvido apenas como prática educativa. Devido a natureza simples da aplicacao nao houve implemtacao de solucoes ou arquiteturas mais complexas
